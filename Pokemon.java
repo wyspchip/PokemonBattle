@@ -10,6 +10,8 @@ class Pokemon
     private int health;
     private int attack;
     
+    private Attack myAttack;
+    
     public Pokemon()
     {
         this.health = 100;
