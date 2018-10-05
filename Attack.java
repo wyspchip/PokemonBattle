@@ -10,7 +10,7 @@ public class Attack
     // instance variables
     // Min and Max attack strength
     private int min;
-    private int max
+    private int max;
     
     // Attack Type here
 

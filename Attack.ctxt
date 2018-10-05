@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Attack
+comment0.text=\r\n\ Pokemon\ attack.\ \ Contains\ attack\ min,\ max,\ type\r\n\r\n\ @author\ (Mr.\ Kim)\r\n\ @version\ (10-04-2018)\r\n
+comment1.params=
+comment1.target=Attack()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Attack\r\n
+comment2.params=
+comment2.target=int\ calcAttackStrength()
+comment2.text=\r\n\ Calculate\ attack\ Strength\r\n\r\n\ @param\ \ \ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+numComments=3
