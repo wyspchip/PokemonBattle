@@ -1,6 +1,7 @@
 class BattleArena
 {
     
+    // a nice comment
     public static void main(String[] args)
     {
         Pokemon  squirtle = new Pokemon(120,8);
